@@ -11,7 +11,7 @@
  - -t    --output-type JOHN/LC (optional, if no=>JOHN)
  - -o    --output FILE (optional, if no=>stdout)
  
-**New parameter added*:**
+**New parameter added:**
  - -k    --get-system-key
  - -sf   --system-file FILE
  - -sk   --system-key KEY
