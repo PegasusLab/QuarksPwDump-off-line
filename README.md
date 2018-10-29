@@ -10,13 +10,13 @@
  - -hist --with-history (optional)
  - -t    --output-type JOHN/LC (optional, if no=>JOHN)
  - -o    --output FILE (optional, if no=>stdout)
-**New parameter added**
+ 
+**New parameter added*:**
  - -k    --get-system-key
  - -sf   --system-file FILE
  - -sk   --system-key KEY
 
 **Example:**
-
  1. QuarksPwDump.exe -k
  2. QuarksPwDump.exe -dhd -nt NTDS_saved.dit -sf system.hive -o hash.txt
  3. QuarksPwDump.exe -dhd -nt NTDS_saved.dit -sk 33A97A6A092FCB44B0598Axxxxxxxxx  -o hash.txt
